@@ -10,7 +10,7 @@ app.config["MAIL_SERVER"]="smtp.gmail.com"
 app.config["MAIL_PORT"]=465
 app.config["MAIL_USERNAME"]="sagar.foresights@gmail.com"
 app.config["MAIL_USE_SSL"]=True
-app.config["MAIL_PASSWORD"]="zxmxfrtoypfwhmro"
+app.config["MAIL_PASSWORD"]="your password genreatedb by gmail"
 
 
 db=SQLAlchemy(app)
